@@ -22,6 +22,12 @@ body {
   justify-content: center;
 }
 
+h1 {
+  position: absolute;
+  top: 10%;
+  font-size: 3rem;
+}
+
 /* LAYOUT */
 main {
   position: relative;
@@ -48,7 +54,7 @@ main {
 /* ELEMENTS */
 .name {
   position: relative;
-  font-size: 4rem;
+  font-size: 3.2rem;
   text-transform: uppercase;
   letter-spacing: 1px;
   word-spacing: 2px;

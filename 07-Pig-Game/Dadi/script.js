@@ -14,6 +14,7 @@ const player1El = document.querySelector('.player--1');
 
 let score, currentScore, activePlayer, playing;
 
+// Initial values
 const init = function () {
   score = [0, 0];
   currentScore = 0;
